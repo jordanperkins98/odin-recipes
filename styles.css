@@ -1,0 +1,16 @@
+body{
+    background-color: cornsilk;
+}
+
+h1{
+    text-align: center;
+    color: chocolate;
+    margin-left: 2.5%;
+    text-decoration: underline;
+}
+
+.recipes{
+    font-size: 18px;
+    margin-left: 44%;
+    
+}
